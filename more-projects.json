@@ -1,0 +1,65 @@
+[
+   {
+      "image" : "img/a-tmpl1.png",
+      "title" : "Template 1",
+      "tech" : "[HTML + CSS]",
+      "URL" : "https://rachidammal.github.io/template-1/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/a-tmpl2.png",
+      "title" : "Template 2",
+      "tech" : "[HTML + CSS]",
+      "URL" : "https://rachidammal.github.io/template22/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/a-tmpl3.png",
+      "title" : "Template 3",
+      "tech" : "[HTML + CSS]",
+      "URL" : "https://rachidammal.github.io/tmpl3/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/b-tmpl5.png",
+      "title" : "Random Color Generator",
+      "tech" : "[HTML + CSS + JS]",
+      "URL" : "https://rachidammal.github.io/Random-Color-Generator/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/b-tmpl10.png",
+      "title" : "Random Photos",
+      "tech" : "[HTML + CSS + JS]",
+      "URL" : "https://rachidammal.github.io/Random-Photos/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/b-tmpl16.png",
+      "title" : "Memory Blocks Game",
+      "tech" : "[HTML + CSS + JS]",
+      "URL" : "https://rachidammal.github.io/Memory-Blocks-Game/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/c-tmpl2.png",
+      "title" : "CRUD Operation",
+      "tech" : "[CRUD]",
+      "URL" : "https://rachidammal.github.io/CRUD-Operation/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/d-tmpl1.png",
+      "title" : "Currency Exchange",
+      "tech" : "[JSON]",
+      "URL" : "https://rachidammal.github.io/Currency-exchange/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/e-tmpl1.png",
+      "title" : "Fetch GitHub Repositories",
+      "tech" : "[API]",
+      "URL" : "https://rachidammal.github.io/Fetch-GitHub-Repositories/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   }
+]

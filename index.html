@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="icon" href="tools-and-utensils-programmer-svgrepo-com.svg" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="css/style3.css">
+    <link rel="stylesheet" href="css/normalayze.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700&family=Coming+Soon&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto+Mono:ital,wght@0,100;0,400;0,500;0,700;1,500;1,700&family=Roboto+Serif:ital,opsz,wght@0,8..144,200;1,8..144,200&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <div class="cont-all ">
+        <i class="fas fa-arrow-circle-left fa-2x goBack displaying" style="display: flex;  flex-direction: column; justify-content: center; align-items: center; z-index: 100000;"> 
+            <span style="font-size: 16px; z-index: 100000; margin-top: 5px; ">go back</span>
+        </i>
+        <div class="scroller"></div>
+        <div class="nav cont1" >
+            <div class="nav-bar">
+                <a href="#home" id="link1" class="active">Home</a>
+                <a href="#about" id="link2">About</a>
+                <a href="#project" id="link3">Projects</a>
+                <a href="#contact" id="link4">Contact</a>
+            </div>
+        </div>
+        <div class="cont cont2" id="home" >
+            <img src="img/rachid4.jpg" alt="" class="me">
+            <h1 class="my-name"></h1>
+            <p class="descrp">(Web Developer. && Hydraulic Engeneer.)</p>
+            <h2>Social media links</h2>
+            <ul id="ul">
+            </ul>
+            <h2 style="margin: 27px 20px 20px;">My Skills</h2>
+            <div class="skills" style="max-width: 1000px;">
+            </div>
+            <div class="contact">
+                <div class="whatsapp">
+                    <i class="fa-brands fa-whatsapp " style="color: rgb(5, 99, 5);"><span>Whatsapp:</span><span>+213-676-523-618</span></i>
+                </div>
+                <div class="email">
+                    <i class="fa-regular fa-envelope " style="color: rgb(111, 7, 7);"><span style="margin-bottom: 10px; display: inline-block;">Email:</span><span>rachid.developer7@gmail.com</span></i>
+                </div>
+            </div>
+            <div style="margin: 5px 0;">
+            </div>
+        </div>
+        <div class="cont cont3" id="about" style="margin: 0px auto 0px;">
+            <h2 class="main-title"><span class="span-title">About</span></h2>
+            <p class="me-decrip" >Hi there! I'm Rachid, <span id="ageDisplay"></span> years old, an avid gamer, anime lover, future biker, and a Hydraulic Engineer with a strong passion for web development. 
+                  <h2 style="margin-bottom: 0; margin-top: 15px;">Web Development</h2>
+  <div class="me-decrip" >
+    As a Full-Stack Web Developer, I possess a well-rounded skill set that allows me to create and manage modern web applications from front to back. My expertise ensures seamless user experiences and robust server-side functionality. Here’s what I can achieve with my skills:
+  </div>
+ 
+  <h2 style="margin-bottom: 0; margin-top: 15px;">Front-End Development</h2>
+
+    <div class="me-decrip" >&#128073; Using HTML and CSS, I can design responsive and visually appealing web pages that are compatible with various devices and browsers.</div>
+    
+    <div class="me-decrip" >&#128073; I can use frameworks like Bootstrap and TailwindCSS to accelerate the development of user interfaces and enhance the user experience.</div>
+    <div class="me-decrip" >&#128073; With JavaScript and React, I can build dynamic and interactive interfaces that enhance user engagement and provide smooth system interactions.</div>
+
+ 
+  <h2 style="margin-bottom: 0; margin-top: 15px;">Back-End Development</h2>
+
+    <div class="me-decrip" >&#128073; Utilizing Node.js and Express.js, I can develop lightweight and scalable web applications that offer high performance and reliability.</div>
+    <div class="me-decrip" >&#128073; I am skilled in setting up and managing databases using MongoDB and MySQL to ensure data is stored in an organized, secure, and easily retrievable manner.</div>
+
+ 
+  <h2 style="margin-bottom: 0; margin-top: 15px;">Full-Stack Development</h2>
+
+    <div class="me-decrip" >&#128073; Through PHP and the Laravel framework, I can create robust and fully integrated web applications that support various business operations and ensure data security.</div>
+    <div class="me-decrip" >&#128073; I can combine all these technologies to deliver comprehensive solutions that include UI design, server development, and database management, enabling me to build end-to-end systems tailored to client needs.</div>
+</p>
+        </div>
+        <!--START project -->
+        <div class="cont cont4" id="project" style="margin: 0px auto 0px;"> 
+            <h2 class="main-title" id="#main-title"><span class="span-title">Projects</span></h2>
+            <div class="projects-content proj-1"></div>
+            <button type="submit" class="more-projects" id="submit" style="margin-top: 30px; width: 200px;">More Projects</button>
+        </div>
+        <!--END project -->
+        <!--START projects2 -->
+        <div class="cont projects2 displaying"  style="margin: 0px auto 0px;">
+            <h2 class="main-title" id="#main-title"><span class="span-title">Projects</span></h2>
+            <div class="projects-content proj-2">
+            </div>
+        </div>
+        <!--END projects2-->
+        <div class="cont cont5" id="contact" style="margin: 0px auto 20px;">
+            <h2 class="main-title"><span class="span-title">Contact</span></h2>
+            <form action="https://formspree.io/f/xrbzzzzq" method="POST" class="" id="register">
+                <div class="form">
+                    <input name="fname" type="text" id="first-name" placeholder="first name" class="input" >
+                    <input name="lname" type="text" id="last-name" placeholder="last name" class="input" >
+                    <!-- <input type="tel" id="phone-numb" placeholder="your phone" class="input" > -->
+                    <input type="email" name="email" id="email" placeholder="your email" class="input" >                    
+                    
+                </div>
+                <div class="sub">
+                    <textarea placeholder="how can I help you ?" id="message" name="message" class="txt" ></textarea>
+                    <!-- <button type="submit" class="send" id="submit">Send</button> -->
+                    <input type="submit" class="send" id="submit" value="Send">
+                </div>
+            </form>
+        </div>
+    </div>
+    <button id="btn">UP</button>
+    <script src="https://kit.fontawesome.com/9a0f4b924e.js" crossorigin="anonymous"></script>
+    <script src="script.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+[
+   {
+      "link" : "https://www.facebook.com/profile.php?id=100085944567557",
+      "attr" : "Facebook",
+      "icon" : "fa-brands fa-facebook-f fa-lg"
+   },
+   {
+      "link" : "https://twitter.com/Rachid87624610",
+      "attr" : "Twitter",
+      "icon" : "fa-brands fa-twitter fa-lg"
+   },
+   {
+      "link" : "https://github.com/RachidAmmal",
+      "attr" : "GitHub",
+      "icon" : "fa-brands fa-github fa-lg"
+   },
+   {
+      "link" : "https://www.linkedin.com/in/rachid-a-66a356204/",
+      "attr" : "LinkedIn",
+      "icon" : "fa-brands fa-linkedin-in fa-lg"
+   },
+   {
+      "link" : "#",
+      "attr" : "Discord",
+      "icon" : "fa-brands fa-discord fa-lg"
+   },
+   {
+      "link" : "#",
+      "attr" : "Reddit",
+      "icon" : "fa-brands fa-reddit fa-lg"
+   }
+]

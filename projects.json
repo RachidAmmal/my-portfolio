@@ -1,0 +1,58 @@
+[
+   {
+      "image" : "img/a-tmpl4.png",
+      "title" : "Template 4",
+      "tech" : "[HTML + CSS]",
+      "URL" : "https://rachidammal.github.io/template-4/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/a-b-tmpl-1.png",
+      "title" : "Bondi Theme",
+      "tech" : "[BOOTSTRAP]",
+      "URL" : "https://rachidammal.github.io/bootstrap/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/a-b-c-tmpl-1.png",
+      "title" : "Assassin's Creed",
+      "tech" : "[TAILWIND]",
+      "URL" : "https://rachidammal.github.io/tailwind/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/b-tmpl11.png",
+      "title" : "Hangman Game",
+      "tech" : "[HTML + CSS + JS]",
+      "URL" : "https://rachidammal.github.io/Hangman-Game/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/c-tmpl1.png",
+      "title" : "Product Management",
+      "tech" : "[CRUDS]",
+      "URL" : "https://rachidammal.github.io/Product-Management/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/d-tmpl2.png",
+      "title" : "Quiz App",
+      "tech" : "[JSON]",
+      "URL" : "https://rachidammal.github.io/Quiz-App/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/e-tmpl2.png",
+      "title" : "Weather App",
+      "tech" : "[API]",
+      "URL" : "https://rachidammal.github.io/weather-app/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/react1.png",
+      "title" : "Portfolio with animation ",
+      "tech" : "[React]",
+      "URL" : "https://portfolio-rachid.netlify.app/#up",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   }
+]
