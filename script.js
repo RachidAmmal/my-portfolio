@@ -217,6 +217,8 @@ let moreProjects = document.querySelector(".more-projects");
 let goBack = document.querySelector(".goBack");
 let nav = document.querySelector(".nav");
 
+goBack.style.pointerEvents = "none";
+
 moreProjects.addEventListener("click", () => {
   moreProj();
 });
@@ -231,6 +233,7 @@ function moreProj() {
   });
   containersEl6.style.margin = "15px auto 15px";
   goBack.classList.remove("displaying");
+  goBack.style.pointerEvents = "auto";
   nav.classList.add("displaying");
   window.scrollTo({
     left: 0,
@@ -252,6 +255,7 @@ function proj() {
     }
   });
   goBack.classList.add("displaying");
+  goBack.style.pointerEvents = "none";
   nav.classList.remove("displaying");
   window.scrollTo({
     left: 0,
