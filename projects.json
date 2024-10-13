@@ -52,7 +52,14 @@
       "image" : "img/react1.png",
       "title" : "Portfolio with animation ",
       "tech" : "[React]",
-      "URL" : "https://portfolio-rachid.netlify.app/#up",
+      "URL" : "https://portfolio-rachid.netlify.app/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/react2.png",
+      "title" : "Dashboard MUI",
+      "tech" : "[React]",
+      "URL" : "https://wonderful-eclair-52e763.netlify.app/",
       "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
    }
 ]
