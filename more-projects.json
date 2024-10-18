@@ -61,5 +61,12 @@
       "tech" : "[API]",
       "URL" : "https://rachidammal.github.io/Fetch-GitHub-Repositories/",
       "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/react3.png",
+      "title" : "Quiz App",
+      "tech" : "[React]",
+      "URL" : "https://golden-gumption-eb5215.netlify.app/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
    }
 ]
