@@ -25,6 +25,7 @@ let skillArr = [
   "TailwindCSS",
   "JavaScript",
   "ReactJS",
+  "NextJs",
   "NodeJS",
   "ExpressJS",
   "MongoDB",
