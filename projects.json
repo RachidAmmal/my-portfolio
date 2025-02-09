@@ -61,5 +61,12 @@
       "tech" : "[React]",
       "URL" : "https://wonderful-eclair-52e763.netlify.app/",
       "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/e-com-react.png",
+      "title" : "E-Commerce",
+      "tech" : "[React]",
+      "URL" : "https://e-commerce-app-33.netlify.app/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
    }
 ]
