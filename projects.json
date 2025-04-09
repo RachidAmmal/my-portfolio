@@ -68,5 +68,12 @@
       "tech" : "[React]",
       "URL" : "https://e-commerce-app-33.netlify.app/",
       "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
+   },
+   {
+      "image" : "img/react-4.png",
+      "title" : "MapAtlas",
+      "tech" : "[React]",
+      "URL" : "https://mapatlas.netlify.app/",
+      "icon" : "fa-solid fa-arrow-up-right-from-square fa-2xl"
    }
 ]
